@@ -1,0 +1,20 @@
+{
+    "Author": "Pete Zerger - MVP",
+    "ContentSize": 2941,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/stop-all-vms-in-specified-azure-resource-group/master/Stop-AzureVMs.ps1",
+    "DownloadCount": 7674,
+    "Id": "Stop-All-VMs-in-Specified-40c8531e",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 68,
+    "RaterCount": 6,
+    "Rating": 4.5,
+    "ReleaseDate": "2015-5-29T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "Not Defined",
+    "Summary": "SYNOPSIS \u00a0 \u00a0 \u00a0 \u00a0This PowerShell Workflow script, intended to run in an Azure Automation runbook,\u00a0stops all the Azure VMs in a specific Azure Resource Group.DESCRIPTIONThis sample runbooks stops all of the virtual machines in the specified Azure Resource Group.\u00a0For more informatio",
+    "Title": "Stop All VMs in Specified Azure Resource Group",
+    "UpdatedDate": "2019-7-20T00:00:00",
+    "Url": "https://github.com/azureautomation/stop-all-vms-in-specified-azure-resource-group",
+    "UserTags": "Tutorial, VM Lifecycle Management"
+}
